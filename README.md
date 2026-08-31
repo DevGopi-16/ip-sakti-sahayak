@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:111827&height=220&section=header&text=IP-Sakti-Sahayak&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI-powered%20Indian%20Intellectual%20Property%20%26%20Legal%20Information%20Assistant&descAlignY=58&descSize=15" width="100%"/>
 
 <a href="#">
   <img src="https://readme-typing-svg.demolab.com/?lines=Ask+questions+about+Indian+IP+laws;RAG-powered+legal+document+retrieval;Multilingual+%E2%80%A2+Image+search+%E2%80%A2+Source-grounded+answers;Built+with+FastAPI+%2B+FAISS+%2B+React" alt="Typing SVG" />
