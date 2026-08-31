@@ -17,6 +17,8 @@ export default function useChat({
   setActiveChatId,
   refreshChatHistory,
   initialBotMessage,
+
+  
 }) {
   const [messages, setMessages] = useState([
     initialBotMessage,
