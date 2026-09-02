@@ -5,6 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Ask+questions+about+Indian+IP+laws;RAG-powered+legal+document+retrieval;Multilingual+%E2%80%A2+Image+search+%E2%80%A2+Source-grounded+answers;Built+with+FastAPI+%2B+FAISS+%2B+React" alt="Typing SVG" />
 </a>
 
+
 <br/><br/>
 
 <img src="https://img.shields.io/badge/FastAPI-Backend-009688?logo=fastapi&logoColor=white&style=for-the-badge" />
