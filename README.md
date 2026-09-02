@@ -25,6 +25,8 @@
 
 </div>
 
+
+
 ## 💡 Why This Exists
 
 > Indian Intellectual Property laws contain large amounts of legal and statutory information that can be difficult to search, understand, and navigate.
